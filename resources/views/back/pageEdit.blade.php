@@ -55,7 +55,6 @@
                             <input type="text" class="form-control" id="website" name="website" value="{{$entreprise->website}}" placeholder="Site internet">
                         </div>
                     </div>
-
                     <button type="submit" class="btn btn-primary">Valider</button>
                 </form>
                 <br>
